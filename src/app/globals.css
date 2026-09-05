@@ -9,3 +9,4 @@
   body { @apply bg-background text-foreground font-sans antialiased; }
 }
 border-border: hsl(var(--border))
+.border-border { border-color: hsl(var(--border)); }
