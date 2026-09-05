@@ -1,18 +1,1 @@
-{
-  "/_not-found/page": "app/_not-found/page.js",
-  "/admin/dashboard/page": "app/admin/dashboard/page.js",
-  "/ai-match/page": "app/ai-match/page.js",
-  "/book/[id]/page": "app/book/[id]/page.js",
-  "/compare/page": "app/compare/page.js",
-  "/batches/page": "app/batches/page.js",
-  "/dashboard/page": "app/dashboard/page.js",
-  "/referrals/page": "app/referrals/page.js",
-  "/page": "app/page.js",
-  "/tutor/dashboard/page": "app/tutor/dashboard/page.js",
-  "/search/page": "app/search/page.js",
-  "/tutor/onboarding/page": "app/tutor/onboarding/page.js",
-  "/login/page": "app/login/page.js",
-  "/signup/page": "app/signup/page.js",
-  "/tutor/[id]/page": "app/tutor/[id]/page.js",
-  "/student/onboarding/page": "app/student/onboarding/page.js"
-}
+{}
