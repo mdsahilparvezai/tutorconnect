@@ -1,0 +1,46 @@
+(self.webpackChunk_N_E=self.webpackChunk_N_E||[]).push([[702],{4131:function(e,t,s){Promise.resolve().then(s.bind(s,1789))},8030:function(e,t,s){"use strict";s.d(t,{Z:function(){return l}});var r=s(2265);/**
+ * @license lucide-react v0.378.0 - ISC
+ *
+ * This source code is licensed under the ISC license.
+ * See the LICENSE file in the root directory of this source tree.
+ */let a=e=>e.replace(/([a-z0-9])([A-Z])/g,"$1-$2").toLowerCase(),i=function(){for(var e=arguments.length,t=Array(e),s=0;s<e;s++)t[s]=arguments[s];return t.filter((e,t,s)=>!!e&&s.indexOf(e)===t).join(" ")};/**
+ * @license lucide-react v0.378.0 - ISC
+ *
+ * This source code is licensed under the ISC license.
+ * See the LICENSE file in the root directory of this source tree.
+ */var n={xmlns:"http://www.w3.org/2000/svg",width:24,height:24,viewBox:"0 0 24 24",fill:"none",stroke:"currentColor",strokeWidth:2,strokeLinecap:"round",strokeLinejoin:"round"};/**
+ * @license lucide-react v0.378.0 - ISC
+ *
+ * This source code is licensed under the ISC license.
+ * See the LICENSE file in the root directory of this source tree.
+ */let c=(0,r.forwardRef)((e,t)=>{let{color:s="currentColor",size:a=24,strokeWidth:c=2,absoluteStrokeWidth:l,className:d="",children:o,iconNode:h,...m}=e;return(0,r.createElement)("svg",{ref:t,...n,width:a,height:a,stroke:s,strokeWidth:l?24*Number(c)/Number(a):c,className:i("lucide",d),...m},[...h.map(e=>{let[t,s]=e;return(0,r.createElement)(t,s)}),...Array.isArray(o)?o:[o]])}),l=(e,t)=>{let s=(0,r.forwardRef)((s,n)=>{let{className:l,...d}=s;return(0,r.createElement)(c,{ref:n,iconNode:t,className:i("lucide-".concat(a(e)),l),...d})});return s.displayName="".concat(e),s}},6540:function(e,t,s){"use strict";s.d(t,{Z:function(){return r}});/**
+ * @license lucide-react v0.378.0 - ISC
+ *
+ * This source code is licensed under the ISC license.
+ * See the LICENSE file in the root directory of this source tree.
+ */let r=(0,s(8030).Z)("BookOpen",[["path",{d:"M2 3h6a4 4 0 0 1 4 4v14a3 3 0 0 0-3-3H2z",key:"vv98re"}],["path",{d:"M22 3h-6a4 4 0 0 0-4 4v14a3 3 0 0 1 3-3h7z",key:"1cyq3y"}]])},7385:function(e,t,s){"use strict";s.d(t,{Z:function(){return r}});/**
+ * @license lucide-react v0.378.0 - ISC
+ *
+ * This source code is licensed under the ISC license.
+ * See the LICENSE file in the root directory of this source tree.
+ */let r=(0,s(8030).Z)("CalendarDays",[["path",{d:"M8 2v4",key:"1cmpym"}],["path",{d:"M16 2v4",key:"4m81vk"}],["rect",{width:"18",height:"18",x:"3",y:"4",rx:"2",key:"1hopcy"}],["path",{d:"M3 10h18",key:"8toen8"}],["path",{d:"M8 14h.01",key:"6423bh"}],["path",{d:"M12 14h.01",key:"1etili"}],["path",{d:"M16 14h.01",key:"1gbofw"}],["path",{d:"M8 18h.01",key:"lrp35t"}],["path",{d:"M12 18h.01",key:"mhygvu"}],["path",{d:"M16 18h.01",key:"kzsmim"}]])},933:function(e,t,s){"use strict";s.d(t,{Z:function(){return r}});/**
+ * @license lucide-react v0.378.0 - ISC
+ *
+ * This source code is licensed under the ISC license.
+ * See the LICENSE file in the root directory of this source tree.
+ */let r=(0,s(8030).Z)("Clock",[["circle",{cx:"12",cy:"12",r:"10",key:"1mglay"}],["polyline",{points:"12 6 12 12 16 14",key:"68esgv"}]])},119:function(e,t,s){"use strict";s.d(t,{Z:function(){return r}});/**
+ * @license lucide-react v0.378.0 - ISC
+ *
+ * This source code is licensed under the ISC license.
+ * See the LICENSE file in the root directory of this source tree.
+ */let r=(0,s(8030).Z)("IndianRupee",[["path",{d:"M6 3h12",key:"ggurg9"}],["path",{d:"M6 8h12",key:"6g4wlu"}],["path",{d:"m6 13 8.5 8",key:"u1kupk"}],["path",{d:"M6 13h3",key:"wdp6ag"}],["path",{d:"M9 13c6.667 0 6.667-10 0-10",key:"1nkvk2"}]])},4817:function(e,t,s){"use strict";s.d(t,{Z:function(){return r}});/**
+ * @license lucide-react v0.378.0 - ISC
+ *
+ * This source code is licensed under the ISC license.
+ * See the LICENSE file in the root directory of this source tree.
+ */let r=(0,s(8030).Z)("Search",[["circle",{cx:"11",cy:"11",r:"8",key:"4ej97u"}],["path",{d:"m21 21-4.3-4.3",key:"1qie3q"}]])},9338:function(e,t,s){"use strict";s.d(t,{Z:function(){return r}});/**
+ * @license lucide-react v0.378.0 - ISC
+ *
+ * This source code is licensed under the ISC license.
+ * See the LICENSE file in the root directory of this source tree.
+ */let r=(0,s(8030).Z)("Star",[["polygon",{points:"12 2 15.09 8.26 22 9.27 17 14.14 18.18 21.02 12 17.77 5.82 21.02 7 14.14 2 9.27 8.91 8.26 12 2",key:"8f66p6"}]])},7138:function(e,t,s){"use strict";s.d(t,{default:function(){return a.a}});var r=s(231),a=s.n(r)},1789:function(e,t,s){"use strict";s.r(t),s.d(t,{default:function(){return h}});var r=s(7437),a=s(7138),i=s(4817),n=s(6540),c=s(7385),l=s(9338),d=s(119),o=s(933);function h(){return(0,r.jsxs)("div",{className:"min-h-screen bg-gray-50",children:[(0,r.jsx)("header",{className:"bg-white border-b border-gray-100 sticky top-0 z-30",children:(0,r.jsxs)("div",{className:"container-custom py-4 flex items-center justify-between",children:[(0,r.jsxs)(a.default,{href:"/",className:"flex items-center gap-2 font-display font-bold text-xl text-primary-600",children:[(0,r.jsx)("span",{className:"w-8 h-8 rounded-xl bg-primary-600 flex items-center justify-center text-white font-bold text-sm",children:"TC"}),"TutorConnect"]}),(0,r.jsxs)(a.default,{href:"/search",className:"btn-primary text-sm",children:[(0,r.jsx)(i.Z,{className:"w-4 h-4 mr-1"})," Find Tutors"]})]})}),(0,r.jsxs)("div",{className:"container-custom py-8",children:[(0,r.jsx)("h1",{className:"font-display text-2xl md:text-3xl font-bold text-gray-900 mb-2",children:"Welcome back, Student!"}),(0,r.jsx)("p",{className:"text-gray-600 mb-8",children:"Track your lessons, messages, and tutor matches."}),(0,r.jsx)("div",{className:"grid grid-cols-2 lg:grid-cols-4 gap-4 mb-8",children:[{icon:n.Z,label:"Active Subjects",value:"4"},{icon:c.Z,label:"Sessions This Month",value:"12"},{icon:l.Z,label:"Hours Learned",value:"48"},{icon:d.Z,label:"Total Spent",value:"₹8,400"}].map((e,t)=>(0,r.jsxs)("div",{className:"card p-5",children:[(0,r.jsx)(e.icon,{className:"w-5 h-5 text-primary-600 mb-3"}),(0,r.jsx)("div",{className:"text-2xl font-bold text-gray-900",children:e.value}),(0,r.jsx)("div",{className:"text-xs text-gray-500",children:e.label})]},t))}),(0,r.jsxs)("div",{className:"grid lg:grid-cols-2 gap-6",children:[(0,r.jsxs)("div",{className:"card",children:[(0,r.jsxs)("div",{className:"px-5 py-4 border-b border-gray-100 flex items-center justify-between",children:[(0,r.jsx)("h3",{className:"font-display font-semibold text-gray-900",children:"Upcoming Sessions"}),(0,r.jsx)(a.default,{href:"#",className:"text-xs text-primary-600",children:"View calendar"})]}),(0,r.jsx)("div",{className:"divide-y divide-gray-50",children:[{tutor:"Dr. Priya Sharma",subject:"Physics",date:"Today, 4:00 PM",mode:"Online",status:"Confirmed"},{tutor:"Anjali Mehta",subject:"English",date:"Tomorrow, 11:00 AM",mode:"Hybrid",status:"Confirmed"}].map((e,t)=>(0,r.jsxs)("div",{className:"px-5 py-4 flex items-center gap-4",children:[(0,r.jsx)("div",{className:"w-11 h-11 rounded-full bg-gradient-to-br from-primary-500 to-primary-700 text-white flex items-center justify-center font-bold text-sm",children:e.tutor.split(" ").slice(0,2).map(e=>e[0]).join("")}),(0,r.jsxs)("div",{className:"flex-1 min-w-0",children:[(0,r.jsxs)("p",{className:"font-medium text-gray-900 truncate",children:[e.subject," with ",e.tutor]}),(0,r.jsxs)("p",{className:"text-xs text-gray-500 flex items-center gap-1 mt-1",children:[(0,r.jsx)(o.Z,{className:"w-3 h-3"}),e.date," • ",e.mode]})]}),(0,r.jsx)("span",{className:"badge badge-success text-xs shrink-0",children:e.status})]},t))})]}),(0,r.jsxs)("div",{className:"card",children:[(0,r.jsx)("div",{className:"px-5 py-4 border-b border-gray-100",children:(0,r.jsx)("h3",{className:"font-display font-semibold text-gray-900",children:"Recent Sessions & Reviews"})}),(0,r.jsx)("div",{className:"divide-y divide-gray-50",children:[{tutor:"Rohit Verma",subject:"Math",date:"Sep 2",rating:5,hours:1},{tutor:"Dr. Meena Iyer",subject:"Chemistry",date:"Aug 28",rating:4,hours:1}].map((e,t)=>(0,r.jsxs)("div",{className:"px-5 py-4 flex items-center gap-3",children:[(0,r.jsxs)("div",{className:"flex-1 min-w-0",children:[(0,r.jsx)("p",{className:"font-medium text-gray-900",children:e.subject}),(0,r.jsxs)("p",{className:"text-xs text-gray-500",children:[e.tutor," • ",e.date," • ",e.hours,"hr"]})]}),(0,r.jsx)("div",{className:"flex",children:[void 0,void 0,void 0,void 0,void 0].map((t,s)=>(0,r.jsx)(l.Z,{className:"w-4 h-4 ".concat(s<e.rating?"text-yellow-400 fill-yellow-400":"text-gray-200")},s))}),(0,r.jsx)("button",{className:"btn-secondary text-xs px-3 py-1.5 shrink-0",children:"Rate"})]},t))})]})]}),(0,r.jsx)("div",{className:"card mt-6 p-6 bg-gradient-to-r from-primary-50 to-accent-50",children:(0,r.jsxs)("div",{className:"flex flex-col sm:flex-row items-center justify-between gap-4",children:[(0,r.jsxs)("div",{children:[(0,r.jsx)("h3",{className:"font-display text-lg font-bold text-gray-900",children:"Your AI Tutor Matches are ready!"}),(0,r.jsx)("p",{className:"text-sm text-gray-600 mt-1",children:"Based on your profile, we found 5 tutors that perfectly match your needs."})]}),(0,r.jsx)(a.default,{href:"/ai-match",className:"btn-primary shrink-0",children:"View Matches"})]})})]})]})}}},function(e){e.O(0,[231,971,23,744],function(){return e(e.s=4131)}),_N_E=e.O()}]);
